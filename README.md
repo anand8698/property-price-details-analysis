@@ -1,4 +1,3 @@
-
 I am pleased to inform you that the project on property details analysis has been successfully completed. Below is a summary of the tasks accomplished:
 
 Data Cleaning: The data has been thoroughly cleaned and preprocessed to ensure accuracy and consistency. This included handling missing values, correcting errors, and standardizing formats.
